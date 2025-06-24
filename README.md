@@ -2,6 +2,9 @@
 
 A Python application that bridges Meshtastic mesh network messages to Discord using webhooks. This tool allows you to receive and forward messages from your Meshtastic network directly to a Discord channel.
 
+<img src="screenshots/img1.png" alt="Meshtastic Discord Bridge GUI" width="700"/>
+<img src="screenshots/img2.png" alt="Meshtastic Discord Bridge GUI" width="700"/>
+
 ## Features
 
 - 🔗 **Real-time bridging**: Forwards Meshtastic messages to Discord in real-time
