@@ -22,8 +22,8 @@ A Python application that bridges Meshtastic mesh network messages to Discord us
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/meshtastic-discord-bridge.git
-   cd meshtastic-discord-bridge
+   git clone https://github.com/wasted-alien/Meshtastic-to-Discord-bridge.git
+   cd meshtastic-to-discord-bridge
    ```
 
 2. **Install dependencies:**
@@ -118,7 +118,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 
 ## Support
 
@@ -126,4 +126,6 @@ If you encounter any issues or have questions, please open an issue on GitHub.
 
 ---
 
-**Note**: This bridge requires a physical Meshtastic device to function. Make sure you have the necessary hardware before attempting to use this software. 
+**Note:**  This bridge **requires a physical Meshtastic device** to function. Please ensure you have the necessary hardware before attempting to use this software.
+I am **not affiliated with the Meshtastic project or its developers**. This is an independent project created for personal and community use.
+
