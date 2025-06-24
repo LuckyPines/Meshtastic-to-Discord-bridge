@@ -14,7 +14,7 @@ A Python application that bridges Meshtastic mesh network messages to Discord us
 ## Prerequisites
 
 - Python 3.7 or higher
-- A Meshtastic device (or compatible radio)
+- A Meshtastic device
 - A Discord webhook URL
 - USB connection to your Meshtastic device
 
